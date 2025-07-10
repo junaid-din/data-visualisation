@@ -8,3 +8,8 @@ Tasks completed:
 * Applied visualisation techniques, including: Line plots (for temporal suicide rate trends), Heatmaps (for age-specific rate patterns over time), Choropleth maps (to explore regional disparities in suicide rates), Bar charts (for comparisons across groups)
 * Applied colour theory and accessibility design by using colourblind-safe palettes and gender-representative colours as well as high contrast and minimalistic design for clarity
 * Integrated Gestalt theory and the principle of proportional ink to enhance visual intuitiveness
+
+<div style="text-align: center;">
+  <img src="images/lc.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
+  <img src="images/cp.png" style="display: inline-block; width: 350px; height: 250px;">
+</div>
