@@ -1,7 +1,5 @@
 ## Uncovering Suicide Patterns in England Using Data Visualisation
 
-Created by [Junaid Din](https://github.com/junaid-din)
-
 This project explores suicide patterns and trends across three distinct population groups in England: the general population, prison inmates, and higher education students. Leveraging datasets from the Office for National Statistics (ONS), the study uses data visualisation techniques to highlight demographic, temporal, and regional trends in suicide rates. The goal is to uncover insights that can inform more targeted and effective suicide prevention strategies. By combining multiple data sources and applying accessible, theory-backed visual design principles, the project reveals disparities and risk concentrations often hidden in raw statistics.
 
 Tasks completed:
@@ -15,3 +13,8 @@ Tasks completed:
   <img src="images/lc.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
   <img src="images/cp.png" style="display: inline-block; width: 350px; height: 250px;">
 </div>
+
+### 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
